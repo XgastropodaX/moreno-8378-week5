@@ -6,6 +6,9 @@ TagManager:
   tags:
   - leftscore
   - brick
+  - die
+  - brick2
+  - brick3
   layers:
   - Default
   - TransparentFX
